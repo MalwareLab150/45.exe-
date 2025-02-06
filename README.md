@@ -1,5 +1,6 @@
 45.exe is a trojan made by MalwareLab150 aka 2.0.
 Made in C# but the MBR is a kernel made in C and Assembly (Os Dev).
+How to run the kernel? Download QEMU, Press next,next,next etc.. and then open cmd and type : cd "C:\Program Files\qemu" then type qemu-system-i386 -kernel "filename.bin(the path of the bin file)"
 Payloads?
 I'm too bored to write every payload so go head and watch the video :
 
@@ -30,4 +31,6 @@ YouTube: [Channel](https://www.youtube.com/channel/UCQ3R6zoo4MdWpnfg9h2qvug)
 
  **Viperine aka Win32 Viperine**  
    - GitHub: [Viperine-IT](https://github.com/Viperine-IT?tab=followers)
+
+
 **Bye**
