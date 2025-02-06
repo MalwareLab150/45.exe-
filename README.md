@@ -8,7 +8,7 @@ Beta testers?
 **Adriano Tech**
 https://www.youtube.com/channel/UCYUK8aH_6pRH9NlYH-FBpIA
 
-**Leo Chrom***
+**Leo Chrom**
 https://www.youtube.com/channel/UC9wveBeX8_d55HaTfkELt2w
 
 **Ciberboy** 
