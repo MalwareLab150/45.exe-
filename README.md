@@ -3,6 +3,9 @@ Made in C# but the MBR is a kernel made in C and Assembly (Os Dev).
 How to run the kernel? Download QEMU, Press next,next,next etc.. and then open cmd and type : cd "C:\Program Files\qemu" then type qemu-system-i386 -kernel "filename.bin(the path of the bin file)"
 Payloads?
 I'm too bored to write every payload so go head and watch the video :
+https://youtu.be/N1yw4rkb_o0?si=j0sFskmxfsStj4E5      
+
+
 
 Beta testers? 
 **Adriano Tech**
