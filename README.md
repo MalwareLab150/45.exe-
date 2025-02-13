@@ -1,39 +1,53 @@
-45.exe is a trojan made by MalwareLab150 aka 2.0.
-Made in C# but the MBR is a kernel made in C and Assembly (Os Dev).
-How to run the kernel? Download QEMU, Press next,next,next etc.. and then open cmd and type : cd "C:\Program Files\qemu" then type qemu-system-i386 -kernel "filename.bin(the path of the bin file)"
-Payloads?
-I'm too bored to write every payload so go head and watch the video :
-https://youtu.be/N1yw4rkb_o0?si=j0sFskmxfsStj4E5      
+🔴 **45.exe** is a trojan made by **MalwareLab150 aka 2.0**.  
+💻 Made in **C#**, but the **MBR** is a kernel written in **C and Assembly (OS Dev)**.  
 
+⚙️ **How to run the kernel?**  
+📥 Download **QEMU**, press **Next, Next, Next**, etc...  
+🖥️ Open **cmd** and type:  
+```bash
+cd "C:\Program Files\qemu"
+```
+then type:  
+```bash
+qemu-system-i386 -kernel "filename.bin (the path of the bin file)"
+```
 
+🔥 **Payloads?**  
+I'm too bored to write every payload, so go ahead and watch the video:  
+🎥 [Watch here](https://youtu.be/N1yw4rkb_o0?si=j0sFskmxfsStj4E5)  
 
-Beta testers? 
-**Adriano Tech**
-https://www.youtube.com/channel/UCYUK8aH_6pRH9NlYH-FBpIA
+👨‍💻 **Beta testers:**  
 
-**Leo Chrom**
-https://www.youtube.com/channel/UC9wveBeX8_d55HaTfkELt2w
+🔹 **Adriano Tech**  
+   📺 [YouTube](https://www.youtube.com/channel/UCYUK8aH_6pRH9NlYH-FBpIA)  
 
-**Ciberboy** 
-https://www.youtube.com/channel/UCugX-tGUeUQoNN_UjpsoIDQ
+🔹 **Leo Chrom**  
+   📺 [YouTube](https://www.youtube.com/channel/UC9wveBeX8_d55HaTfkELt2w)  
 
-**OneFive_Malware**  
-YouTube: [Channel](https://www.youtube.com/channel/UCQ3R6zoo4MdWpnfg9h2qvug)  
+🔹 **Ciberboy**  
+   📺 [YouTube](https://www.youtube.com/channel/UCugX-tGUeUQoNN_UjpsoIDQ)  
 
-**Ponik aka Silver**  
-   - YouTube: [Channel](https://www.youtube.com/channel/UCyag58Ji7QnTOpfTQnHCrKg)
+🔹 **OneFive_Malware**  
+   📺 [YouTube](https://www.youtube.com/channel/UCQ3R6zoo4MdWpnfg9h2qvug)  
 
-**Niko**  
-   - YouTube: [Channel](https://www.youtube.com/channel/UCXVSeHV8U9mZBerrKttsvAA)
+🔹 **Ponik aka Silver**  
+   📺 [YouTube](https://www.youtube.com/channel/UCyag58Ji7QnTOpfTQnHCrKg)  
 
-**WindowsLab aka Erik**  
-   - YouTube: [Channel](https://www.youtube.com/@windowslab-k9o)
+🔹 **Niko**  
+   📺 [YouTube](https://www.youtube.com/channel/UCXVSeHV8U9mZBerrKttsvAA)  
 
-**Vyac**  
-   - YouTube: [Channel](https://www.youtube.com/channel/UCu1Um5BMKcXH1aU2nzctjcQ)
+🔹 **WindowsLab aka Erik**  
+   📺 [YouTube](https://www.youtube.com/@windowslab-k9o)  
 
- **Viperine aka Win32 Viperine**  
-   - GitHub: [Viperine-IT](https://github.com/Viperine-IT?tab=followers)
+🔹 **Vyac**  
+   📺 [YouTube](https://www.youtube.com/channel/UCu1Um5BMKcXH1aU2nzctjcQ)  
 
+🔹 **Viperine aka Win32 Viperine**  
+   🐍 [GitHub](https://github.com/Viperine-IT?tab=followers)  
+   
+🌐 **MalwareLab Social**  
+🔗 [DS MalwareLab 2.0](https://tinyurl.com/2ar2awjf)  
+or 
+🔗 [MalwareLab 2.0 YouTube](https://www.youtube.com/@MalWareTesTer4._57/videos)  
 
-**Bye**
+👋 **Bye!**
